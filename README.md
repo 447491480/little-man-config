@@ -1,7 +1,7 @@
 ## A more friendly way to use config file when you have many env,let the env config to merge default config
 
 ```
-npm i more-express-config --save
+npm i little-man-config --save
 ```
 
 #### demo
@@ -20,7 +20,7 @@ npm i more-express-config --save
 
 #### app.js
 ```
-var configure = require('more-express-config');
+var configure = require('little-man-config');
 
 console.log(configure.get('app'));
 ```
