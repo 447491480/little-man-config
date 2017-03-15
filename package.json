@@ -1,5 +1,5 @@
 {
-  "name": "more-express-config",
+  "name": "little-man-config",
   "version": "1.0.8",
   "description": "read config by env path",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/447491480/more-express-config.git"
+    "url": "git+https://github.com/447491480/little-man-config.git"
   },
   "keywords": [
     "config",
@@ -20,9 +20,9 @@
   "author": "wjchang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/447491480/more-express-config/issues"
+    "url": "https://github.com/447491480/little-man-config/issues"
   },
-  "homepage": "https://github.com/447491480/more-express-config#readme",
+  "homepage": "https://github.com/447491480/little-man-config#readme",
   "dependencies": {
     "js-yaml": "^3.8.2",
     "merge-descriptors": "^1.0.1",
