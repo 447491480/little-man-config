@@ -1,6 +1,6 @@
 {
   "name": "little-man-config",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "read config by env path",
   "main": "index.js",
   "scripts": {
