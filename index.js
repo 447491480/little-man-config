@@ -10,7 +10,7 @@ var yaml = require('js-yaml');
 var merge = require('merge-descriptors');
 var path = require('path');
 
-var G_ENV = process.env.NODE_ENV || '';
+var G_ENV = process.env.NODE_ENV || 'dev';
 var BASEDIR = process.cwd();
 var CONFIG_DIR = 'config';
 

@@ -33,6 +33,7 @@ console.log(configure.get('app'));
 ```
 
 ### support .js, .json, .node, .yaml, .yml
+### default NODE_ENV is dev
 
 
 
